@@ -3,17 +3,10 @@
 ## Description
 A Next.js application with TypeScript to visualize nearby food trucks in San Francisco using a provided dataset.
 
-## Getting Started
-
 ### Prerequisites
-- Docker
-
-### Setup
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/food-truck-finder.git
-
+- Node
+- NPM
+- Browser
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
